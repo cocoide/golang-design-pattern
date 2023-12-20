@@ -1,7 +1,7 @@
 package main
 
 import (
-	l "github.com/cocoide/golang-design-pattern/function_optional_pattern/logger"
+	l "github.com/cocoide/golang-design-pattern/functional_options_pattern/logger"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 )
